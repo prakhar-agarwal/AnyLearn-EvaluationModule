@@ -1,0 +1,43 @@
+{
+    "gates": {
+        "1": "AND",
+        "2": "NOT"
+    },
+
+    "edges": [
+        {
+            "src": "1",
+            "dest": "2"
+        }
+    ],
+
+    "inputGate":
+        {
+        "1" : ["A","B"]
+        },
+
+    "outputGate": [
+        "2"
+    ],
+
+    "labels" : ["A", "B"]
+}
+
+
+{
+	"testcases":[
+		{
+			"A" :,
+			"B" :,
+			"Output" :
+		},
+
+		{
+			"A" :,
+			"B" :,
+			"Output" :
+		}
+	],
+
+	"count" :
+}
